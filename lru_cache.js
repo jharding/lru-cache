@@ -1,3 +1,9 @@
+// lru_cache.js
+// ============
+// * GitHub: https://github.com/jharding/lru-cache
+// * Copyright (c) 2013 Jake Harding
+// * Licensed under the MIT license
+
 (function(root, undefined) {
 
   root.LruCache = LruCache;
