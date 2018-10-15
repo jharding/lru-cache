@@ -85,5 +85,5 @@ Copyright (c) 2013 [Jake Harding](http://thejakeharding.com)
 Licensed under the MIT License.
 
 [lru_cache.js]: https://raw.github.com/jharding/lru-cache/master/lru_cache.js 
-[jasmine]: http://pivotal.github.com/jasmine/
+[jasmine]: https://jasmine.github.io/
 [karma]: http://karma-runner.github.io
